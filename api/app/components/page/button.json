@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_page_buttons",
+  "info": {
+    "name": "button",
+    "icon": "vector-square"
+  },
+  "options": {},
+  "attributes": {
+    "link": {
+      "type": "string",
+      "required": true
+    },
+    "label": {
+      "type": "string",
+      "required": true,
+      "default": "Comprar"
+    }
+  }
+}
